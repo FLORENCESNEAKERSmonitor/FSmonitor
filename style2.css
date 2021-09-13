@@ -49,10 +49,11 @@ div.logo{
 .menu{
 transition: all 1s cubic-bezier(.215, .61, .355, 1);
 width: 130%;
+padding-left:30px;
 }
 
 .menu li{display: inline-block;}
-.menu li a{color: #fff;padding: 15px; display: block;}
+.menu li a{color: #fff;padding: 25px; display: block;}
 
 .hamburger{display: none;}
 
@@ -157,7 +158,7 @@ width: 100%;
 height: 100%;
 background: white;
 border-radius: 100%;
-line-height: 350px;
+line-height: 483px;
 text-align: center;
 }
 
